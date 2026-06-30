@@ -24,6 +24,8 @@ docker.io/bitnamilegacy/redis:7.4.2-debian-12-r6
 docker.io/grafana/alloy:v1.8.1
 docker.io/grafana/grafana:12.2.0
 docker.io/library/busybox:1.31.1
+docker.io/library/busybox
+registry.k8s.io/kubectl
 docker.io/provectuslabs/kafka-ui:v0.7.2
 fhalim/prom2click:latest
 ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.151.0
