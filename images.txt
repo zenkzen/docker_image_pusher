@@ -1,3 +1,4 @@
-
+quay.io/kiwigrid/k8s-sidecar:1.30.10
+docker.io/curlimages/curl:8.9.1
 docker.io/bats/bats:v1.4.1
-
+docker.io/grafana/grafana-image-renderer
