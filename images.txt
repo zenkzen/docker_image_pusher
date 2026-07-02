@@ -1,1 +1,2 @@
+bats/bats:1.13.0
 nacos/nacos-server:v2.5.2
