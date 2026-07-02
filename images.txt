@@ -1,2 +1,3 @@
-bats/bats:1.13.0
-nacos/nacos-server:v2.5.2
+#bats/bats:1.13.0
+#nacos/nacos-server:v2.5.2
+jenkins/inbound-agent:3355.v388858a_47b_33-20-jdk21
